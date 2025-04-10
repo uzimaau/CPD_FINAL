@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "639876446227",
+    "firebase_url": "https://game-tracker-css-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "game-tracker-css",
+    "storage_bucket": "game-tracker-css.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639876446227:android:b35a9ce2d8c83bea7827e6",
+        "android_client_info": {
+          "package_name": "com.example.cpd_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6nA_oqTIrcT69Poxf3E2155ittfG8Xac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
